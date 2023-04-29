@@ -1,0 +1,22 @@
+.filter-container {
+  width: 100%;
+  height: 2rem;
+  font-size: 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 0.25rem;
+  font-family: "Noto Sans JP", sans-serif;
+  .label__filter {
+    color: white;
+  }
+  select {
+    width: 8rem;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 1.05rem;
+    option {
+      text-align: center;
+      padding: 0.25rem;
+    }
+  }
+}
