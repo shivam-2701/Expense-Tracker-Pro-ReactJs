@@ -6,6 +6,7 @@
   justify-content: space-between;
   padding-inline: 0.25rem;
   font-family: "Noto Sans JP", sans-serif;
+  margin-block: 0.5rem;
 }
 .filter-container .label__filter {
   color: white;
